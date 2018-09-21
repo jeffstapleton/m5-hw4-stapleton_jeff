@@ -1,3 +1,3 @@
-var poop = "This is my JavaScript practice";
+var myJavaScriptPractice = "This is my JavaScript practice";
 
-console.log(poop);
+console.log(myJavaScriptPractice);
